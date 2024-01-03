@@ -4,6 +4,7 @@
 
 [https://care-cosmetics.netlify.app/](https://care-cosmetics.netlify.app/)
 
+
 <h3>📝 About My Project:</h3>
 Here are five key points about the "Care-Cosmetics" project that combines React, React Router, Firebase user authentication, and a MongoDB database:
 
